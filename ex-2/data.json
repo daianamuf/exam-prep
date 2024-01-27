@@ -1,0 +1,13 @@
+[
+  {
+    "town": "Bucuresti",
+    "temp": 11,
+    "state": "senin"
+  },
+  { "town": "Constanta", "temp": 7, "state": "ploios" },
+  {
+    "town": "Brasov",
+    "temp": -1,
+    "state": "ninsoare"
+  }
+]

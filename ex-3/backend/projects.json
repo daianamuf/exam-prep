@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Fundamentals of web applications",
+    "description": "Key elements of frontend and backend development",
+    "dueDate": "2024/05/10"
+  },
+  {
+    "name": "Fetch and Promises",
+    "description": "how to use the fetch api",
+    "dueDate": "2024-01-30",
+    "id": 2
+  }
+]
